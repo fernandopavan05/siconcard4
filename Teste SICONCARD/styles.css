@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    background: #333333;
+    margin: 15px 25px;
+}
+
+.titulo {
+    margin: 10px;
+    color: black;
+}
+
+.menu {
+    background: #333333;
+    width: 25%;
+    height: 100%;
+    display: fixed;
+}
+
+.menu-item,
+h2 {
+    color: #aaabae;
+    text-decoration: none;
+    margin: 20px 5px;
+    padding: 8px 0 0 12px;
+    display: block;
+}
+
+.navmenu {
+    padding: 8px 12px;
+    margin: 20px 15px;
+    background: #333333;
+}
+
+.noobmaster,
+.menu {
+    background: #333333;
+    display: inline-block;
+    color: white;
+}
+
+.logo {
+    margin: 0 20%;
+}
+
+.noobmaster {
+    margin: 50px;
+    padding: 0;
+    gap: 200px; 
+    position: absolute ;
+
+
+}
+
+
